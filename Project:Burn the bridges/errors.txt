@@ -2,6 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 24: Tab characters are not allowed in Ren'Py scripts.
+File "game/script.rpy", line 17: Line is indented, but the preceding define statement statement does not expect a block. Please check this line's indentation.
+    label start:
+    ^
 
 Ren'Py Version: Ren'Py 6.17.6.512
